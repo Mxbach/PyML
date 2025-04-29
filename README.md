@@ -1,2 +1,11 @@
 # PyML
-Course exercises of the module "Python for Machine Learning"
+
+Course exercises for the module **"Python for Machine Learning"**.
+
+## Prerequisites
+
+To set up the environment, run:
+
+```bash
+conda env create --file environment.yml
+```
